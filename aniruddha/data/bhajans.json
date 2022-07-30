@@ -1,0 +1,123 @@
+{
+  "error": false,
+  "msg": "Success",
+  "songsList": [
+    {
+      "artistName": "",
+      "cover": "",
+      "duration": 444600,
+      "id": 1,
+      "isFav": false,
+      "isPlaying": false,
+      "title": "Bhajman_Narayan.mp3"
+    },
+    {
+      "artistName": "",
+      "cover": "",
+      "duration": 550800,
+      "id": 2,
+      "isFav": false,
+      "isPlaying": false,
+      "title": "Hari_Aayenge.mp3"
+    },
+    {
+      "artistName": "",
+      "cover": "",
+      "duration": 483000,
+      "id": 3,
+      "isFav": false,
+      "isPlaying": false,
+      "title": "Itni_Kirpa_Sanware_Banaye_Rakhna.mp3"
+    },
+    {
+      "artistName": "",
+      "cover": "",
+      "duration": 493200,
+      "id": 4,
+      "isFav": false,
+      "isPlaying": false,
+      "title": "Kyon_Ghabrau_Mai_Mera_To_Shyam_Se_Naata_Hai.mp3"
+    },
+    {
+      "artistName": "",
+      "cover": "",
+      "duration": 381000,
+      "id": 5,
+      "isFav": false,
+      "isPlaying": false,
+      "title": "Mere_Shyam_Aate_Hain.mp3"
+    },
+    {
+      "artistName": "",
+      "cover": "",
+      "duration":694800 ,
+      "id": 6,
+      "isFav": false,
+      "isPlaying": false,
+      "title": "Mitti_Ka_Khilona_Mitti_Mein_Mil_Jayega.mp3"
+    },
+    {
+      "artistName": "",
+      "cover": "",
+      "duration":383400 ,
+      "id": 7,
+      "isFav": false,
+      "isPlaying": false,
+      "title": "Oo_Papi_Man_Kar_Le_Bhajan.mp3"
+    },
+    {
+      "artistName": "",
+      "cover": "",
+      "duration":449400 ,
+      "id": 8,
+      "isFav": false,
+      "isPlaying": false,
+      "title": "Saans_Dena_Prabhu_Itni_To_Kam_Se_Kam.mp3"
+    },
+    {
+      "artistName": "",
+      "cover": "",
+      "duration": 727200,
+      "id": 9,
+      "isFav": false,
+      "isPlaying": false,
+      "title": "Shri_Ram_Jai_Ram_Jai_Jai_Ram.mp3"
+    },
+    {
+      "artistName": "",
+      "cover": "",
+      "duration": 331800,
+      "id": 10,
+      "isFav": false,
+      "isPlaying": false,
+      "title": "Shyam_Ka_Sumiran_Kiya_Karo.mp3"
+    },
+    {
+      "artistName": "",
+      "cover": "",
+      "duration": 427800,
+      "id": 11,
+      "isFav": false,
+      "isPlaying": false,
+      "title": "Tu_Doob_Ke_Mar_Ja_Re_Chullu_Bhar_Pani_Mein.mp3"
+    },
+    {
+      "artistName": "",
+      "cover": "",
+      "duration": 727200,
+      "id": 12,
+      "isFav": false,
+      "isPlaying": false,
+      "title": "Tu_Kitni_Achhi_Hai_Tu_Kitni_Bholi_Hai_Oo_Maa.mp3"
+    },
+    {
+      "artistName": "",
+      "cover": "",
+      "duration": 670800,
+      "id": 13,
+      "isFav": false,
+      "isPlaying": false,
+      "title": "Ye_Prarthna_Dil_Ki_Bekar_Nahi_Hogi.mp3"
+    }
+  ]
+}
