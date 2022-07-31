@@ -9,7 +9,8 @@
       "id": 1,
       "isFav": false,
       "isPlaying": false,
-      "title": "Bhajman_Narayan(128k).mp3"
+      "title": "Bhajman Narayan",
+      "titleHindi": "भजमन नारायण"
     },
     {
       "artistName": "",
@@ -18,7 +19,8 @@
       "id": 2,
       "isFav": false,
       "isPlaying": false,
-      "title": "Hari_Aayenge(128k).mp3"
+      "title": "Hari Aayenge",
+      "titleHindi": "हरि आयेंगे"
     },
     {
       "artistName": "",
@@ -27,7 +29,8 @@
       "id": 3,
       "isFav": false,
       "isPlaying": false,
-      "title": "Itni_Kirpa_Sanware_Banaye_Rakhna(128k).mp3"
+      "title": "Itni Kirpa Sanware Banaye Rakhna",
+      "titleHindi": "इतनी कृपा सांवरे बनाया रखना"
     },
     {
       "artistName": "",
@@ -36,7 +39,8 @@
       "id": 4,
       "isFav": false,
       "isPlaying": false,
-      "title": "Kyon_Ghabrau_Mai_Mera_To_Shyam_Se_Naata_Hai(128k).mp3"
+      "title": "Kyon Ghabrau Mai Mera To Shyam Se Naata Hai",
+      "titleHindi": "क्यू घबरौ मैं मेरा तो श्याम से नाता है"
     },
     {
       "artistName": "",
@@ -45,34 +49,38 @@
       "id": 5,
       "isFav": false,
       "isPlaying": false,
-      "title": "Mere_Shyam_Aate_Hain(128k).mp3"
+      "title": "Mere Shyam Aate Hain",
+      "titleHindi": "मेरे श्याम आते हैं"
     },
     {
       "artistName": "",
       "cover": "",
-      "duration":694800 ,
+      "duration": 694800,
       "id": 6,
       "isFav": false,
       "isPlaying": false,
-      "title": "Mitti_Ka_Khilona_Mitti_Mein_Mil_Jayega(128k).mp3"
+      "title": "Mitti Ka Khilona Mitti Mein Mil Jayega",
+      "titleHindi": "मिट्टी का खिलोना मिट्टी में मिल जाएगा"
     },
     {
       "artistName": "",
       "cover": "",
-      "duration":383400 ,
+      "duration": 383400,
       "id": 7,
       "isFav": false,
       "isPlaying": false,
-      "title": "Oo_Papi_Man_Kar_Le_Bhajan(128k).mp3"
+      "title": "Oo Papi Man Kar Le Bhajan",
+      "titleHindi": "ऊ पापी मन कर ले भजन"
     },
     {
       "artistName": "",
       "cover": "",
-      "duration":449400 ,
+      "duration": 449400,
       "id": 8,
       "isFav": false,
       "isPlaying": false,
-      "title": "Saans_Dena_Prabhu_Itni_To_Kam_Se_Kam(128k).mp3"
+      "title": "Saans Dena Prabhu Itni To Kam Se Kam",
+      "titleHindi": "सांस देना प्रभु इतनी से कम से कम"
     },
     {
       "artistName": "",
@@ -81,7 +89,8 @@
       "id": 9,
       "isFav": false,
       "isPlaying": false,
-      "title": "Shri_Ram_Jai_Ram_Jai_Jai_Ram(128k).mp3"
+      "title": "Shri Ram Jai Ram Jai Jai Ram",
+      "titleHindi": "श्री राम जय राम जय जय राम"
     },
     {
       "artistName": "",
@@ -90,7 +99,8 @@
       "id": 10,
       "isFav": false,
       "isPlaying": false,
-      "title": "Shyam_Ka_Sumiran_Kiya_Karo(128k).mp3"
+      "title": "Shyam Ka Sumiran Kiya Karo",
+      "titleHindi": "श्याम का सुमिरन किया करो"
     },
     {
       "artistName": "",
@@ -99,7 +109,8 @@
       "id": 11,
       "isFav": false,
       "isPlaying": false,
-      "title": "Tu_Doob_Ke_Mar_Ja_Re_Chullu_Bhar_Pani_Mein(128k).mp3"
+      "title": "Tu Doob Ke Mar Ja Re Chullu Bhar Pani Mein",
+      "titleHindi": "तू डूब के मार जा रे चुल्लू भर पानी में"
     },
     {
       "artistName": "",
@@ -108,7 +119,8 @@
       "id": 12,
       "isFav": false,
       "isPlaying": false,
-      "title": "Tu_Kitni_Achhi_Hai_Tu_Kitni_Bholi_Hai_Oo_Maa(128k).mp3"
+      "title": "Tu Kitni Achhi Hai Tu Kitni Bholi Hai Oo Maa",
+      "titleHindi": "तू कितनी अच्छी है तू कितनी भोली है ऊ मां"
     },
     {
       "artistName": "",
@@ -117,7 +129,258 @@
       "id": 13,
       "isFav": false,
       "isPlaying": false,
-      "title": "Ye_Prarthna_Dil_Ki_Bekar_Nahi_Hogi(128k).mp3"
+      "title": "Ye Prarthna Dil Ki Bekar Nahi Hogi",
+      "titleHindi": "ये प्रार्थना दिल की बेकर नहीं होगी"
+    },
+    {
+      "artistName": "",
+      "cover": "",
+      "duration": 253800,
+      "id": 14,
+      "isFav": false,
+      "isPlaying": false,
+      "title": "Dil Mera Radhe Radhe Gata Hai",
+      "titleHindi": "दिल मेरा राधे राधे गाता है"
+    },
+    {
+      "artistName": "",
+      "cover": "",
+      "duration": 621000,
+      "id": 15,
+      "isFav": false,
+      "isPlaying": false,
+      "title": "Govind Nam Lekar Pran Tan Se Nikle",
+      "titleHindi": "गोविंद नाम लेकर प्राण तन से निकले"
+    },
+    {
+      "artistName": "",
+      "cover": "",
+      "duration": 258000,
+      "id": 16,
+      "isFav": false,
+      "isPlaying": false,
+      "title": "Tu Sabka Sathi Hai Mohan",
+      "titleHindi": "गतू सबका साथी है मोहन"
+    },
+    {
+      "artistName": "",
+      "cover": "",
+      "duration": 444600,
+      "id": 17,
+      "isFav": false,
+      "isPlaying": false,
+      "title": "Jai Jai Shri Radha Raman",
+      "titleHindi": "जय जय श्री राधा रमन"
+    },
+    {
+      "artistName": "",
+      "cover": "",
+      "duration": 451800,
+      "id": 18,
+      "isFav": false,
+      "isPlaying": false,
+      "title": "Man Main Basa Kar Teri Murti",
+      "titleHindi": "मन में बसा कर तेरी मूर्ति"
+    },
+    {
+      "artistName": "",
+      "cover": "",
+      "duration": 516000,
+      "id": 19,
+      "isFav": false,
+      "isPlaying": false,
+      "title": "Parmatma Na Paya Paya Janm To",
+      "titleHindi": "परमात्मा ना पाया पाया जन्म तो"
+    },
+    {
+      "artistName": "",
+      "cover": "",
+      "duration": 408000,
+      "id": 20,
+      "isFav": false,
+      "isPlaying": false,
+      "title": "Savari Surat Pe Teri",
+      "titleHindi": "सावरी सूरत पे तेरी"
+    },
+    {
+      "artistName": "",
+      "cover": "",
+      "duration": 432600,
+      "id": 21,
+      "isFav": false,
+      "isPlaying": false,
+      "title": "Tum Do Kadam Chalo",
+      "titleHindi": "तुम दो कदम चलो"
+    },
+    {
+      "artistName": "",
+      "cover": "",
+      "duration": 317400,
+      "id": 22,
+      "isFav": false,
+      "isPlaying": false,
+      "title": "Vah Vah Kya Baat Hai",
+      "titleHindi": "तवाह वाह क्या बात है"
+    },
+    {
+      "artistName": "",
+      "cover": "",
+      "duration": 317400,
+      "id": 23,
+      "isFav": false,
+      "isPlaying": false,
+      "title": "Vah Vah Kya Baat Hai",
+      "titleHindi": "तवाह वाह क्या बात है"
+    },
+    {
+      "artistName": "",
+      "cover": "",
+      "duration": 516000,
+      "id": 24,
+      "isFav": false,
+      "isPlaying": false,
+      "title": "Aankho Ko Intezar Hai Sarkar Aapka",
+      "titleHindi": "आंखों को इंतजार है सरकार आपका"
+    },
+    {
+      "artistName": "",
+      "cover": "",
+      "duration": 267600,
+      "id": 25,
+      "isFav": false,
+      "isPlaying": false,
+      "title": "Bansi Oo Bansi Itna Bata Tune Konsa Punn Kiya Hain",
+      "titleHindi": "बंसी ओ बंसी इतना बता तूने कोंसा पुण्य किया है"
+    },
+    {
+      "artistName": "",
+      "cover": "",
+      "duration": 866400,
+      "id": 26,
+      "isFav": false,
+      "isPlaying": false,
+      "title": "Beta Tune Doodh Ki Kadar Na Jani",
+      "titleHindi": "बीटा ट्यून दूध की कदर ना जानी"
+    },
+    {
+      "artistName": "",
+      "cover": "",
+      "duration": 572400,
+      "id": 27,
+      "isFav": false,
+      "isPlaying": false,
+      "title": "Ek Doli Chali Ek Earthi Chali",
+      "titleHindi": "एक डोली चली एक मिट्टी चली"
+    },
+    {
+      "artistName": "",
+      "cover": "",
+      "duration": 572400,
+      "id": 28,
+      "isFav": false,
+      "isPlaying": false,
+      "title": "Ek Doli Chali Ek Earthi Chali",
+      "titleHindi": "एक डोली चली एक मिट्टी चली"
+    },
+    {
+      "artistName": "",
+      "cover": "",
+      "duration": 438000,
+      "id": 29,
+      "isFav": false,
+      "isPlaying": false,
+      "title": "Ek Nazar Kripa Ki Kar Do Laadli Shri Radhe",
+      "titleHindi": "एक नज़र कृपा की कर दो लाडली श्री राधे"
+    },
+    {
+      "artistName": "",
+      "cover": "",
+      "duration": 562800,
+      "id": 30,
+      "isFav": false,
+      "isPlaying": false,
+      "title": "Govind Nam Lekar Pran Tan Se Nikle",
+      "titleHindi": "गोविंद नाम लेकर प्राण तन से निकले"
+    },
+    {
+      "artistName": "",
+      "cover": "",
+      "duration": 427800,
+      "id": 31,
+      "isFav": false,
+      "isPlaying": false,
+      "title": "Jeevan Hain Anmol Re Ise Maati Mein Na Ghol Re",
+      "titleHindi": "जीवन है अनमोल रे इसे मिट्टी में ना घोल रे"
+    },
+    {
+      "artistName": "",
+      "cover": "",
+      "duration": 268200,
+      "id": 32,
+      "isFav": false,
+      "isPlaying": false,
+      "title": "Meera Diwani Ho Gayi",
+      "titleHindi": "मीरा दीवानी हो गई"
+    },
+    {
+      "artistName": "",
+      "cover": "",
+      "duration": 395400,
+      "id": 33,
+      "isFav": false,
+      "isPlaying": false,
+      "title": "Mera Jee Karta Hai Shyam Ke Bhajno Mein Kho Jau",
+      "titleHindi": "मेरा जी करता है श्याम के भजनों में खो जौ"
+    },
+    {
+      "artistName": "",
+      "cover": "",
+      "duration": 546000,
+      "id": 34,
+      "isFav": false,
+      "isPlaying": false,
+      "title": "Mera Koi Na Sahara Bin Tere",
+      "titleHindi": "मेरा कोई ना सहारा बिन तेरे"
+    },
+    {
+      "artistName": "",
+      "cover": "",
+      "duration": 207600,
+      "id": 35,
+      "isFav": false,
+      "isPlaying": false,
+      "title": "Pardesiyo Se Na Ankhiya Milana",
+      "titleHindi": "परदेसियो से न अंखिया मिलाना"
+    },
+    {
+      "artistName": "",
+      "cover": "",
+      "duration": 502200,
+      "id": 36,
+      "isFav": false,
+      "isPlaying": false,
+      "title": "Seva Bhakti Kar Nahi Paya Kismat Ka Mara",
+      "titleHindi": "सेवा भक्ति कर नहीं पाया किस्मत का मारा"
+    },
+    {
+      "artistName": "",
+      "cover": "",
+      "duration": 382800,
+      "id": 37,
+      "isFav": false,
+      "isPlaying": false,
+      "title": "Shri Krishnam Sharnam Namah",
+      "titleHindi": "श्री कृष्णं शरणं नमः"
+    },
+    {
+      "artistName": "",
+      "cover": "",
+      "duration": 503400,
+      "id": 38,
+      "isFav": false,
+      "isPlaying": false,
+      "title": "Teri Murli Ki Dhun Sunkar Main Barsane se Aayi Hu",
+      "titleHindi": "तेरी मुरली की धुन सुनकर मैं बरसाने से आई हूं"
     }
   ]
 }
