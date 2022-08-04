@@ -1,8 +1,5 @@
-{
-  "error": false,
-  "msg": "Success",
-  "songsList": [
-    {
+[
+  {
       "artistName": "",
       "cover": "",
       "duration": 444600,
@@ -353,4 +350,3 @@
       "titleHindi": "तेरी मुरली की धुन सुनकर मैं बरसाने से आई हूं"
     }
   ]
-}
