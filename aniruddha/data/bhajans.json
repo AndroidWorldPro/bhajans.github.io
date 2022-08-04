@@ -59,8 +59,8 @@
       "id": 6,
       "isFav": false,
       "isPlaying": false,
-      "title": "Mitti Ka Khilona Mitti Mein Mil Jayega",
-      "titleHindi": "मिट्टी का खिलोना मिट्टी में मिल जाएगा"
+      "title": "Maan Mera Kahna Nahi To Pachhtayega Mitti Ka Khilona Mitti Mein Mil Jayega",
+      "titleHindi": "मान मेरा कहना नहीं तो पछताएगा मिट्टी का खिलोना मिट्टी में मिल जाएगा"
     },
     {
       "artistName": "",
@@ -70,7 +70,7 @@
       "isFav": false,
       "isPlaying": false,
       "title": "Oo Papi Man Kar Le Bhajan",
-      "titleHindi": "ऊ पापी मन कर ले भजन"
+      "titleHindi": "ओ पापी मन कर ले भजन"
     },
     {
       "artistName": "",
@@ -109,8 +109,8 @@
       "id": 11,
       "isFav": false,
       "isPlaying": false,
-      "title": "Tu Doob Ke Mar Ja Re Chullu Bhar Pani Mein",
-      "titleHindi": "तू डूब के मार जा रे चुल्लू भर पानी में"
+      "title": "Tu Doob Ke Marja Re Chullu Bhar",
+      "titleHindi": "तू डूब के मार जा रे चुल्लू भर"
     },
     {
       "artistName": "",
@@ -120,7 +120,7 @@
       "isFav": false,
       "isPlaying": false,
       "title": "Tu Kitni Achhi Hai Tu Kitni Bholi Hai Oo Maa",
-      "titleHindi": "तू कितनी अच्छी है तू कितनी भोली है ऊ मां"
+      "titleHindi": "तू कितनी अच्छी है तू कितनी भोली है ओ मां"
     },
     {
       "artistName": "",
@@ -131,16 +131,6 @@
       "isPlaying": false,
       "title": "Ye Prarthna Dil Ki Bekar Nahi Hogi",
       "titleHindi": "ये प्रार्थना दिल की बेकर नहीं होगी"
-    },
-    {
-      "artistName": "",
-      "cover": "",
-      "duration": 253800,
-      "id": 14,
-      "isFav": false,
-      "isPlaying": false,
-      "title": "Dil Mera Radhe Radhe Gata Hai",
-      "titleHindi": "दिल मेरा राधे राधे गाता है"
     },
     {
       "artistName": "",
@@ -225,16 +215,6 @@
     {
       "artistName": "",
       "cover": "",
-      "duration": 317400,
-      "id": 23,
-      "isFav": false,
-      "isPlaying": false,
-      "title": "Vah Vah Kya Baat Hai",
-      "titleHindi": "तवाह वाह क्या बात है"
-    },
-    {
-      "artistName": "",
-      "cover": "",
       "duration": 516000,
       "id": 24,
       "isFav": false,
@@ -250,7 +230,7 @@
       "isFav": false,
       "isPlaying": false,
       "title": "Bansi Oo Bansi Itna Bata Tune Konsa Punn Kiya Hain",
-      "titleHindi": "बंसी ओ बंसी इतना बता तूने कोंसा पुण्य किया है"
+      "titleHindi": "बंसी ओ बंसी इतना बता तूने कोन्सा पुण्य किया है"
     },
     {
       "artistName": "",
@@ -267,16 +247,6 @@
       "cover": "",
       "duration": 572400,
       "id": 27,
-      "isFav": false,
-      "isPlaying": false,
-      "title": "Ek Doli Chali Ek Earthi Chali",
-      "titleHindi": "एक डोली चली एक मिट्टी चली"
-    },
-    {
-      "artistName": "",
-      "cover": "",
-      "duration": 572400,
-      "id": 28,
       "isFav": false,
       "isPlaying": false,
       "title": "Ek Doli Chali Ek Earthi Chali",
@@ -330,7 +300,7 @@
       "isFav": false,
       "isPlaying": false,
       "title": "Mera Jee Karta Hai Shyam Ke Bhajno Mein Kho Jau",
-      "titleHindi": "मेरा जी करता है श्याम के भजनों में खो जौ"
+      "titleHindi": "मेरा जी करता है श्याम के भजनों में खो जाऊ"
     },
     {
       "artistName": "",
